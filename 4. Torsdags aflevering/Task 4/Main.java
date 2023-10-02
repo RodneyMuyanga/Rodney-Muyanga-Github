@@ -4,7 +4,7 @@ public class Main //client class.
 {
 	public static void main(String[] args)
 	{
-		ArrayList<String> actions = new ArrayList<>();
+		ArrayList<String> actions = new ArrayList<String>();
 
 		GameMenu gameMenu = new GameMenu(actions); /*Still in the main method, instantiate the GameMenu class with the actions 
 		reference as an argument to the constructor.*/
@@ -17,8 +17,7 @@ public class Main //client class.
 
 		//Test print:
 		System.out.println(actions.get(2));
-
+		
 		gameMenu.displayMenu();
 	}
-
 }

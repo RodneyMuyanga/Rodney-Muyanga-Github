@@ -26,19 +26,18 @@ public class GuessANumber {
             
             // Compare the user's guess with the random number
             if (number == rnd_number) {
-                System.out.println("Congratulations! You guessed it right.");
+            System.out.println("Congratulations! You guessed it right.");
             } else if (number < rnd_number) {
-                System.out.println("Try again. Your guess is too low.");
+            System.out.println("Try again. Your guess is too low.");
                 makeAGuess(); // Call this method recursively for another guess
             } else {
-                System.out.println("Try again. Your guess is too high.");
+            System.out.println("Try again. Your guess is too high.");
                 makeAGuess(); // Call this method recursively for another guess
             }
-        } else {
+            } else {
             System.out.println("You did not enter a valid number. Please try again.");
-            makeAGuess(); // Call this method recursively for another guess
+                makeAGuess(); // Call this method recursively for another guess
         }
-        
-        scanner.close();
+        scanner.close(); // ikke nødvendigt. 
     }
 }
