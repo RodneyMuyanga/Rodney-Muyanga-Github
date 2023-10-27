@@ -7,7 +7,9 @@ public class Cinema {
     // Sæder, der ikke er reserveret, har værdien "O"
     public Cinema(int rows, int seats)
     {
-        this.seats = new String[rows][seats]; // Her skulle variablen instantieres før vi tilgår Arrayen. Så jeg byttede om på disse to linjer. Her instantieres seats til en String matrix(dobbelt array).
+        this.seats = new String[rows][seats];
+        /* Her skulle variablen instantieres før vi tilgår Arrayen. Så jeg byttede om på disse to linjer.
+        Her instantieres seats til en String matrix(dobbelt array).*/
 
         for(int i = 0; i < rows; i++)
         {
@@ -16,9 +18,8 @@ public class Cinema {
               this.seats[i][j] = "seats";
             }
         }
-        this.seats[0][0] = "X";
+        this.seats[0][0] = "Reseveret";
     }
-
     public int getRows()
     {
         return seats.length;
@@ -41,9 +42,10 @@ public class Cinema {
     // If the seat is not yet reserved, it's value is Seats.
     // In that case, change the value to X and return true.
     // If the seat is already reserved, return false.
-    public boolean reserve(int row, int seat)
+    public boolean reserve(int row, int seat) /*Der skal et nested for-loop til for at få denne kode til at virke.*/
     {
-        if (seats[row][seat].equals("seats")) //hvis sædet er ledigt så resevere vi det.
+        if (seats[row][seat].equals("seats"))
+            //hvis sædet er ledigt så resevere vi det.
         {
             seats[row][seat] = "X"; //vi resevere sædet.
             return true;

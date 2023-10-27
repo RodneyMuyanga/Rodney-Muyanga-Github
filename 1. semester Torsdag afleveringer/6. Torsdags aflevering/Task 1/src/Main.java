@@ -1,7 +1,12 @@
-public class Main {
-    public static void main(String[] args)
+public class Main
+{    public static void main(String[] args)
     {
-        System.out.println("Hello world!");
-    }
+        methodClass method = new methodClass();
+        method.methodA();
+        method.methodB();
+        method.methodC();
+        method.methodD();
 
+        System.out.println();
+    }
 }

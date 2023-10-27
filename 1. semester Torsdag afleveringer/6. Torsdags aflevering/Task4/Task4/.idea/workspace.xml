@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="201894c4-7322-4d84-8156-9abb3217e887" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/Task3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Task3/Task3/src/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Task 2/Cinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Task 2/Cinema.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2Wf9fGWejbbbKjCYQmDgvRoqQdW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/DATuddannelse/Github/Rodney-Muyanga-Github/1. semester Torsdag afleveringer/6. Torsdags aflevering/Task 1",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="201894c4-7322-4d84-8156-9abb3217e887" name="Changes" comment="" />
+      <created>1697112873606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697112873606</updated>
+      <workItem from="1697112874687" duration="155000" />
+      <workItem from="1697113044610" duration="197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
