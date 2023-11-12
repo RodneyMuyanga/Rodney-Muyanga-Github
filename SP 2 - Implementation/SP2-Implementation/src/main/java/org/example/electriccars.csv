@@ -1,0 +1,4 @@
+registrationNumber, carBrand, carModel, numberOfDoors, batteryCapacity, maxRange
+DEF456,Chevrolet,Bolt EV,5,66,259
+GHI789,Audi,e-Tron,5,95,204
+OGN553,BMW,i3,4,42,153

@@ -1,0 +1,4 @@
+Registration number, carBrand, carModel, NumberOfDoors, kmPrLitre, particleFilter
+BUI945,Audi,A6,4,16,true
+OVB541,Volvo,V60,2,4,false
+ORN796,BMW,M3,5,21,true
